@@ -1,4 +1,4 @@
-# t-rkiye-havalimanlar--i-in-veri-zarflama-analizi
+# Turkiye-Havalimanlari-Icin-Veri-Zarflama-Analizi
 Teknolojinin her geçen gün daha da ileriye gitmesi ile havayolu sektörünün önemi giderek
 artmaktadır. Havayollarına talep artmakta, artan talep havalimanlarında da artış yaratmaktadır.
 Bu noktada havalimanlarının belli kriterler göz önünde bulundurularak stratejik konumlarda ve
